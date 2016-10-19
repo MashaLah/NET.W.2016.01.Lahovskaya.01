@@ -3,7 +3,25 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task1", "task1\Task1.csproj", "{D9CCB35D-991D-493F-B0A5-B2E07F82FBFC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task1UI", "task1.UI\Task1UI.csproj", "{33BDE687-C3B7-47A1-BEAA-22D90C51C613}"
+EndProject
 Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D9CCB35D-991D-493F-B0A5-B2E07F82FBFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9CCB35D-991D-493F-B0A5-B2E07F82FBFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9CCB35D-991D-493F-B0A5-B2E07F82FBFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9CCB35D-991D-493F-B0A5-B2E07F82FBFC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33BDE687-C3B7-47A1-BEAA-22D90C51C613}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33BDE687-C3B7-47A1-BEAA-22D90C51C613}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33BDE687-C3B7-47A1-BEAA-22D90C51C613}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33BDE687-C3B7-47A1-BEAA-22D90C51C613}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
