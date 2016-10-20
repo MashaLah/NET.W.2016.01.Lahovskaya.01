@@ -7,6 +7,16 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task1", "task1\Task1.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task1UI", "task1.UI\Task1UI.csproj", "{33BDE687-C3B7-47A1-BEAA-22D90C51C613}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task2", "Task2", "{61950ABD-6D23-4AA4-8270-C407F403055D}"
+	ProjectSection(SolutionItems) = preProject
+		F:\Task2\auto.cs = F:\Task2\auto.cs
+		F:\Task2\auto.netmodule = F:\Task2\auto.netmodule
+		F:\Task2\car.dll = F:\Task2\car.dll
+		F:\Task2\client.cs = F:\Task2\client.cs
+		F:\Task2\client.exe = F:\Task2\client.exe
+		F:\Task2\sportcar.cs = F:\Task2\sportcar.cs
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
