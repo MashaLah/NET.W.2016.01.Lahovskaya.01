@@ -15,7 +15,7 @@ namespace Task1UI
             foreach (int a in array) Console.Write("{0} ", a);
             Console.WriteLine();
             Console.Write("Enter x: ");
-            int x = Int32.Parse(Console.ReadLine());
+            int x = int.Parse(Console.ReadLine());
             int result = BinarySearch.Search(x, array);
             if (result >= 0)
             {
